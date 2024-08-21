@@ -2,4 +2,4 @@ txtai[all]
 streamlit
 PyPDF2
 #python-dotenv
-#langchain_2.5
+#langchain_2
